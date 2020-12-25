@@ -6,10 +6,12 @@ this tool you'd have to re-configure your avatar from scratch on the new model.
 
 # How?
 
-Just drop Import the unitypackage and open the interface from the main menu Rhea. If you have multiple meshes using the
+Just drop import the `.unitypackage` and open the interface from the main menu `Rhea`. If you have multiple meshes using the
 same Armature on the model, just increase the count to the appropriate value and assign them all.
+
+![Example animation](https://raw.githubusercontent.com/RheaAyase/Unity-ReassignArmatureToMesh/main/example.gif)
 
 # Help!
 
-Ping me on Discord Rhea#1234
+Ping me on Discord `Rhea#1234`
 
